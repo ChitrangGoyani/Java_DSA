@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/missing-number/submissions/
 public class MissingNumber {
 
     public static void main(String[] args) {
