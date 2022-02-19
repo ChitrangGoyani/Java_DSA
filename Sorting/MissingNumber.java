@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/missing-number/submissions/
+//Amazon
 public class MissingNumber {
 
     public static void main(String[] args) {
