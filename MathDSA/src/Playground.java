@@ -9,7 +9,7 @@ public class Playground {
         System.out.println(Integer.toBinaryString(10 >> 1)); //right shift by one == 5
         // a >> 1 = a / 2
         // a >> b = a / 2^b
-
+        System.out.println(Integer.toBinaryString(-10));
     }
 
 }
