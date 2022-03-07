@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class InsertionSort {
+public class SelectionSort {
 
     public static void main(String[] args) {
         int[] nums = {3,1,14,7,9,0,25,6};
@@ -8,7 +8,7 @@ public class InsertionSort {
 //        System.out.println(insertionSort(nums));
     }
 
-    static int[] insertionSort(int[] nums){
+    static int[] selectionSort(int[] nums){
         //find the max element and put it in its correct position
         int last = nums.length - 1;
         for(int j = 0;j<=last;j++)
